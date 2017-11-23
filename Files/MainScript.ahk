@@ -1,1 +1,0 @@
-﻿MsgBox, This is MainScript.ahk
