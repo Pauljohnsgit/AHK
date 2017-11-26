@@ -1,0 +1,12 @@
+The MainExe.ahk runs uncompiled script MainScript.ahk
+
+To use just put script in Scripts folder rename MainScript.exe
+same name as MainScript.ahk
+
+To make changes to MainScript.exe you must recompile MainExe.ahk !!!
+
+AutoHotkey.dll & msvcr.dll must be copied to MainExe.ahk Directory
+This Has Changed Do To Script Changes but could change again
+
+To recompile use AUTOHOTKEY_L
+set to base file v1.1.21.2 ANSI 32-bit
