@@ -17,4 +17,4 @@
 [testing](Readme2.md)
 
 
-[test2](test/README.md)
+[test2](https://github.com/Pauljohnsgit/test/blob/master/README.md#)
