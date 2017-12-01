@@ -14,4 +14,4 @@
 # ThumbDriveStart
 [DOWNLOAD EXE + SCRIPT](https://raw.githubusercontent.com/Pauljohnsgit/AHK/master/Scripts/ThumbDrive/ThumbDriveStart.zip)
 
-[testing] (https://github.com/Pauljohnsgit/AHK/blob/master/Readme2.md)
+[testing](https://github.com/Pauljohnsgit/AHK/blob/master/Readme2.md)
