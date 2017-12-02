@@ -29,7 +29,7 @@ FileDelete, %A_ScriptDir%\msvcr100.dll
 FileDelete, %A_ScriptDir%\AutoHotkey.dll
 ExitApp
 ```
-# Run As Admin script used to force adim evaluation
+# Run As Admin script used to force admin evaluation
 [DOWNLOAD SCRIPT](https://raw.githubusercontent.com/Pauljohnsgit/AHK/master/Scripts/RunAsAdmin/RunAsAdmin.zip)
 ```AutoHotKey
 RunAsAdmin() {
@@ -53,8 +53,8 @@ RunAsAdmin() {
 RunAsAdmin()
 ```
 
-# AnyFileInsert
+# AnyFileInsert script that turns files into text called by function
 [VIEW RAW](https://raw.githubusercontent.com/Pauljohnsgit/AHK/master/Scripts/AnyFileInsert/AnyFileInsert.ahk)
 
-# ThumbDriveStart
+# ThumbDriveStart application used to create a drive menu
 [DOWNLOAD EXE + SCRIPT](https://raw.githubusercontent.com/Pauljohnsgit/AHK/master/Scripts/ThumbDrive/ThumbDriveStart.zip)
