@@ -5,10 +5,10 @@
 # Full List Of Commands
 [VIEW LIST](https://autohotkey.com/docs_1.0/commands.htm)
 
-# Autohotkey The Application
+# Autohotkey - The Application
 [DOWNLOAD](https://raw.githubusercontent.com/Pauljohnsgit/AHK/master/AutoHotkey.zip)
 
-# Dynamic EXE used for quick scripting
+# DynamicEXE - used for quick scripting
 [DOWNLOAD EXE](https://raw.githubusercontent.com/Pauljohnsgit/AHK/master/Scripts/DynamicScriptExe/AScriptDir.exe) or [DOWNLOAD FULL SCRIPT](https://raw.githubusercontent.com/Pauljohnsgit/AHK/master/Scripts/DynamicScriptExe/DynamicScriptExe.zip)
 
 ```AutoHotKey
@@ -29,7 +29,7 @@ FileDelete, %A_ScriptDir%\msvcr100.dll
 FileDelete, %A_ScriptDir%\AutoHotkey.dll
 ExitApp
 ```
-# Run As Admin script used to force admin evaluation
+# RunAsAdmin - script used to force admin evaluation
 [DOWNLOAD SCRIPT](https://raw.githubusercontent.com/Pauljohnsgit/AHK/master/Scripts/RunAsAdmin/RunAsAdmin.zip)
 ```AutoHotKey
 RunAsAdmin() {
@@ -53,8 +53,8 @@ RunAsAdmin() {
 RunAsAdmin()
 ```
 
-# AnyFileInsert script that turns files into text called by function
+# AnyFileInsert - script that turns files into text called by function
 [VIEW RAW](https://raw.githubusercontent.com/Pauljohnsgit/AHK/master/Scripts/AnyFileInsert/AnyFileInsert.ahk)
 
-# ThumbDriveStart application used to create a drive menu
+# ThumbDriveStart - application used to create a drive menu
 [DOWNLOAD EXE + SCRIPT](https://raw.githubusercontent.com/Pauljohnsgit/AHK/master/Scripts/ThumbDrive/ThumbDriveStart.zip)
