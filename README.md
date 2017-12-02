@@ -8,7 +8,7 @@
 # Autohotkey - The Application
 [DOWNLOAD](https://raw.githubusercontent.com/Pauljohnsgit/AHK/master/AutoHotkey.zip)
 
-# DynamicEXE - used for quick scripting
+# DynamicEXE - for quick scripting
 [DOWNLOAD EXE](https://raw.githubusercontent.com/Pauljohnsgit/AHK/master/Scripts/DynamicScriptExe/AScriptDir.exe) or [DOWNLOAD FULL SCRIPT](https://raw.githubusercontent.com/Pauljohnsgit/AHK/master/Scripts/DynamicScriptExe/DynamicScriptExe.zip)
 
 ```AutoHotKey
@@ -29,7 +29,7 @@ FileDelete, %A_ScriptDir%\msvcr100.dll
 FileDelete, %A_ScriptDir%\AutoHotkey.dll
 ExitApp
 ```
-# RunAsAdmin - script used to force admin evaluation
+# RunAsAdmin - script to force for admin evaluation
 [DOWNLOAD SCRIPT](https://raw.githubusercontent.com/Pauljohnsgit/AHK/master/Scripts/RunAsAdmin/RunAsAdmin.zip)
 ```AutoHotKey
 RunAsAdmin() {
