@@ -39,10 +39,8 @@ DllCall("FreeLibrary", "UInt", hModule)
 FileDelete, %A_ScriptDir%\msvcr100.dll
 ;**** Delete AutoHotkey.dll from working Directory ****
 FileDelete, %A_ScriptDir%\AutoHotkey.dll
-
 ExitApp
 ```
-
 # Run As Admin
 [DOWNLOAD SCRIPT](https://raw.githubusercontent.com/Pauljohnsgit/AHK/master/Scripts/RunAsAdmin/RunAsAdmin.zip) or [VIEW RAW](https://raw.githubusercontent.com/Pauljohnsgit/AHK/master/Scripts/RunAsAdmin/RunAsAdmin.ahk)
 
