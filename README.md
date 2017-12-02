@@ -58,3 +58,6 @@ RunAsAdmin()
 
 # ThumbDriveStart - application used to create a drive menu
 [DOWNLOAD EXE + SCRIPT](https://raw.githubusercontent.com/Pauljohnsgit/AHK/master/Scripts/ThumbDrive/ThumbDriveStart.zip)
+
+# 7zipExtract - simple script for unzipping files
+[DOWNLOAD EXE + SCRIPT](https://raw.githubusercontent.com/Pauljohnsgit/AutoHotKey/master/Scripts/7zipExtract/7zipExtract.zip)
