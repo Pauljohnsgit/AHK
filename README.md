@@ -1,3 +1,5 @@
+# Commands
+[LIST](https://autohotkey.com/docs_1.0/commands.htm)
 
 # Autohotkey
 [DOWNLOAD](https://raw.githubusercontent.com/Pauljohnsgit/AHK/master/AutoHotkey.zip)
