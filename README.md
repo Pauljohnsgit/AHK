@@ -5,10 +5,10 @@
 # Full List Of Commands
 [VIEW LIST](https://autohotkey.com/docs_1.0/commands.htm)
 
-# Autohotkey As I Store The Application
+# Autohotkey The Application
 [DOWNLOAD](https://raw.githubusercontent.com/Pauljohnsgit/AHK/master/AutoHotkey.zip)
 
-# Dynamic EXE I Use For On The Fly Scripting
+# Dynamic EXE used for quick scripting
 [DOWNLOAD EXE](https://raw.githubusercontent.com/Pauljohnsgit/AHK/master/Scripts/DynamicScriptExe/AScriptDir.exe) or [DOWNLOAD FULL SCRIPT](https://raw.githubusercontent.com/Pauljohnsgit/AHK/master/Scripts/DynamicScriptExe/DynamicScriptExe.zip)
 
 ```AutoHotKey
@@ -29,7 +29,7 @@ FileDelete, %A_ScriptDir%\msvcr100.dll
 FileDelete, %A_ScriptDir%\AutoHotkey.dll
 ExitApp
 ```
-# Run As Admin
+# Run As Admin script used to force adim evaluation
 [DOWNLOAD SCRIPT](https://raw.githubusercontent.com/Pauljohnsgit/AHK/master/Scripts/RunAsAdmin/RunAsAdmin.zip) or [VIEW RAW](https://raw.githubusercontent.com/Pauljohnsgit/AHK/master/Scripts/RunAsAdmin/RunAsAdmin.ahk)
 
 # AnyFileInsert
