@@ -1,5 +1,5 @@
 # RETURN TO [HOMEPAGE](https://pauljohnsgit.github.io/Paul-Johns/)
-# .==========================================.
+==========================================
 
 # Commands
 [VIEW LIST](https://autohotkey.com/docs_1.0/commands.htm)
