@@ -2,13 +2,13 @@
 # RETURN TO [HOMEPAGE](https://pauljohnsgit.github.io/Paul-Johns/)
 ==========================================
 
-# Commands
+# Full List Of Commands
 [VIEW LIST](https://autohotkey.com/docs_1.0/commands.htm)
 
-# Autohotkey
+# Autohotkey As I Store The Application
 [DOWNLOAD](https://raw.githubusercontent.com/Pauljohnsgit/AHK/master/AutoHotkey.zip)
 
-# Dynamic EXE 
+# Dynamic EXE I Use For On The Fly Scripting
 [DOWNLOAD EXE](https://raw.githubusercontent.com/Pauljohnsgit/AHK/master/Scripts/DynamicScriptExe/AScriptDir.exe) or [DOWNLOAD FULL SCRIPT](https://raw.githubusercontent.com/Pauljohnsgit/AHK/master/Scripts/DynamicScriptExe/DynamicScriptExe.zip)
 
 ```AutoHotKey
