@@ -41,7 +41,6 @@ FileDelete, %A_ScriptDir%\msvcr100.dll
 FileDelete, %A_ScriptDir%\AutoHotkey.dll
 
 ExitApp
-
 ```
 
 # Run As Admin
