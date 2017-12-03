@@ -61,3 +61,6 @@ RunAsAdmin()
 
 # 7zipExtract - simple script for unzipping files
 [DOWNLOAD EXE + SCRIPT](https://raw.githubusercontent.com/Pauljohnsgit/AutoHotKey/master/Scripts/7zipExtract/7zipExtract.zip)
+
+# TxtEncrypter
+[VIEW RAW](https://raw.githubusercontent.com/Pauljohnsgit/AutoHotKey/master/Scripts/TxtEncrypter/TxtEncrypter.ahk)
