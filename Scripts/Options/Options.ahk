@@ -1,3 +1,4 @@
+;NAME / VARIABLE / COMMAND
 /* Date */  /* %SimpleDate% */  FormatTime, SimpleDate,, MM/dd/yy
 /* Copy selected text */  /* %Copy% */  Copy = {Control down}{c}{Control up}
 /* Paste from clipboard */  /* %Paste% */  Paste = {Control down}{v}{Control up}
