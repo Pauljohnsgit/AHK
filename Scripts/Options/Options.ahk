@@ -1,4 +1,9 @@
+;VARIABLES SHEET
+;THIS LIST OF VARIABLES CAN BE CALLED USING THIS AHK FILE
+;ALL COMMANDS ARE ACTIVE BY DOING SO & CAN BE USED BY ITS VARIABLE
+
 ;NAME / VARIABLE / COMMAND
+
 /* Date */  /* %SimpleDate% */  FormatTime, SimpleDate,, MM/dd/yy
 /* Copy selected text */  /* %Copy% */  Copy = {Control down}{c}{Control up}
 /* Paste from clipboard */  /* %Paste% */  Paste = {Control down}{v}{Control up}
